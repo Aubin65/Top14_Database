@@ -1,0 +1,8 @@
+selenium
+bs4
+pytest
+datetime
+os
+pymongo
+python-dotenv
+bson
