@@ -2,12 +2,6 @@
 #----------------------------------Extract Functions------------------------------------#
 #---------------------------------------------------------------------------------------#
 
-"""
-Set the functions used to extract the data from website or text file
-As to know, the websites that will be scrapped are Rugbyrama, LNR website and AllRugby website. 
-I would have like to scrap La Grande Mêlée to collect the lacking data from LNR but the site requires an authentification
-"""
-
 #Libraries
 from dotenv import load_dotenv
 from selenium import webdriver
