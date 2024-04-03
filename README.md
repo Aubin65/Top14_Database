@@ -25,7 +25,7 @@ This database is composed of 4 collections :
 Here is an overview of the final structure of these collections in MongoDB : 
 
 * match
-  *insert image*
+  ![match_collection]("images/match_collection.PNG")
   
 * team_stats
   *insert image*
