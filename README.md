@@ -25,16 +25,20 @@ This database is composed of 4 collections :
 Here is an overview of the final structure of these collections in MongoDB : 
 
 * match
-  ![match_collection_example](images/match_collection.png)
+  
+![match_collection_example](images/match_collection.png)
   
 * team_stats
-  *insert image*
+
+![team_stats_collection_example](images/team_stats_collection.png)
   
 * players
-  *insert image*
+  
+![players_collection_example](images/players_collection.png)
   
 * player_stats
-  *insert image*
+
+![player_stats_collection_example](images/player_stats_collection.png)
 
 ## <b> Sources </b>
 
