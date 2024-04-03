@@ -56,7 +56,7 @@ LNR and LGM were used to create the other collections with more specific statist
 
 ## <b> Contact </b>
 
-- 📫 **amorlas65@gmail.com**
+📫 **amorlas65@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
