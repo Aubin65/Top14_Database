@@ -43,7 +43,8 @@ I decided to scrap 3 websites that seemed accurate for me :
 * LNR ([link](https://www.lnr.fr/))
 * LGM ([link](https://lagrandemelee.midi-olympique.fr/))
 
-All Rugby was used to create the general information about the player (Age, height, weight). It leads to the creation of the players collection in the MongoDB.
+All Rugby was used to create the general information about the player (Age, height, weight). It leads to the creation of the players collection in the MongoDB database.
+
 LNR and LGM were used to create the other collections with more specific statistics taking into account the match.
 
 ## <b> Installation </b>
