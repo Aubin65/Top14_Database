@@ -26,19 +26,22 @@ Here is an overview of the final structure of these collections in MongoDB :
 
 * match
   *insert image*
+  
 * team_stats
   *insert image*
+  
 * players
-  *insert image* 
+  *insert image*
+  
 * player_stats
   *insert image*
 
 ## <b> Sources </b>
 
 I decided to scrap 3 websites that seemed accurate for me : 
-* AllRugby ([put the link](https://www.allrugby.com/))
-* LNR ([put the link](https://www.lnr.fr/))
-* LGM ([put the link](https://lagrandemelee.midi-olympique.fr/))
+* AllRugby ([link](https://www.allrugby.com/))
+* LNR ([link](https://www.lnr.fr/))
+* LGM ([link](https://lagrandemelee.midi-olympique.fr/))
 
 All Rugby was used to create the general information about the player (Age, height, weight). It leads to the creation of the players collection in the MongoDB.
 LNR and LGM were used to create the other collections with more specific statistics taking into account the match.
@@ -52,7 +55,7 @@ LNR and LGM were used to create the other collections with more specific statist
 
 ## <b> Contact </b>
 
-- 📫 How to reach me **amorlas65@gmail.com**
+- 📫 **amorlas65@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
